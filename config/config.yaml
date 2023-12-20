@@ -1,0 +1,6 @@
+rabbitmq:
+  user: "guest"
+  password: "guest"
+  IP: "127.0.0.1"
+  Port: "5672"
+  
